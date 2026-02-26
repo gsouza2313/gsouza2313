@@ -1,4 +1,3 @@
-/Markdown
 # 💫 About Me:
 19y<br>I'm currently majoring CS at the Federal University of Itajubá<br>I have studied Eletrical Engineering for 2 years<br>Learning Git, Python, Octave, Html<br><br>
 
