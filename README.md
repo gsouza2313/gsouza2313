@@ -1,10 +1,6 @@
 # 💫 About Me:
 19y<br>I'm currently majoring CS at the Federal University of Itajubá<br>I have studied Eletrical Engineering for 2 years<br>Learning Git, Python, C<br><br>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gssouza1924) 
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 # 📊 GitHub Stats:
